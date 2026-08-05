@@ -1,11 +1,23 @@
 {
-  "Sheet1": [
+  "APPETIZERS": [
     {
-      "name": "pasta",
-      "description": "super",
+      "name": "Shrimp Ceviche Tatemado",
+      "description": "Shrimp,Chile poblano tatemado, corn, tomate, red onion, habanero ash, avocado, salsa dijon, blue corn chips",
       "price": "$25",
       "order": 1,
       "featured": true
     }
-  ]
+  ],
+  "CASA DE LA ABUELITA": [],
+  "PANADERIA - baked daily": [],
+  "Elevated": [],
+  "Classic American": [],
+  "OMELETTE": [],
+  "SKILLETS": [],
+  "ESPECIALIDADES DE LA CASA": [],
+  "SALADS": [],
+  "KIDS": [],
+  "TACOS": [],
+  "BURGER +": [],
+  "WAFLE/FRENCH/PANCAKES": []
 }
