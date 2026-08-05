@@ -3,9 +3,39 @@
     {
       "name": "Shrimp Ceviche Tatemado",
       "description": "Shrimp,Chile poblano tatemado, corn, tomate, red onion, habanero ash, avocado, salsa dijon, blue corn chips",
-      "price": "$25",
+      "price": "$20.99",
       "order": 1,
       "featured": true
+    },
+    {
+      "name": "Mahi Mahi Ceviche",
+      "description": "Fresh Mahi Mahi, mango, cucumber, pico de gallo, avocado and salsa negra, blue corn chips",
+      "price": "$17.99",
+      "order": 2
+    },
+    {
+      "name": "Chicharron y Guacamole",
+      "description": "Pork rinds, guacamole, pico de gallo, chared jalapenos, micro cilantro",
+      "price": "$15.99",
+      "order": 3
+    },
+    {
+      "name": "Birria Taquitos",
+      "description": "4 birria blue corn taquitos, topped with queso fresco, pico de gallo, side of salsa milpera, sour cream",
+      "price": "$16.99",
+      "order": 4
+    },
+    {
+      "name": "Queso Fundido con Longaniza",
+      "description": "Melted Oaxaca and Monterrey cheesse, pico de gallo, microcilantro, longaniza, corn tortillas",
+      "price": "$16.99",
+      "order": 5
+    },
+    {
+      "name": "Tabla de Quesos",
+      "description": "Queso fresco, requeson, Panela asada, jocoque, frijoles, salsa milpera, tortillas and baguette",
+      "price": "$21.99",
+      "order": 6
     }
   ],
   "CASA DE LA ABUELITA": [],
