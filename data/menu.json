@@ -95,15 +95,350 @@
       "order": 9
     }
   ],
-  "PANADERIA - baked daily": [],
-  "Elevated": [],
-  "Classic American": [],
-  "OMELETTE": [],
-  "SKILLETS": [],
-  "ESPECIALIDADES DE LA CASA": [],
-  "SALADS": [],
-  "KIDS": [],
-  "TACOS": [],
-  "BURGER +": [],
-  "WAFLE/FRENCH/PANCAKES": []
+  "PANADERIA - baked daily": [
+    {
+      "name": "Molletes Dulces",
+      "description": "Butter and sugar add ons $1 strawberry jam, lechera, nutella",
+      "price": "$7.99",
+      "order": 1
+    },
+    {
+      "name": "3 Conchas",
+      "description": "Chocolate, vainilla",
+      "price": "$6.99",
+      "order": 2
+    },
+    {
+      "name": "Galletas de Nuez",
+      "description": "4 walnut Cookies baked daily, topped with Mazapan and powdered sugar",
+      "price": "$6.99",
+      "order": 3
+    },
+    {
+      "name": "Canasta de la Abuela",
+      "description": "3 walnut cookies, 2 conchitas, 1 cow cookie",
+      "price": "$9.99",
+      "order": 4
+    }
+  ],
+  "Elevated": [
+    {
+      "name": "Pork Belly Benedict",
+      "description": "Ponzu-marinated pork belly, poached eggs, hollandaise, chives, and country potatoes.",
+      "price": "$20.99",
+      "order": 1
+    },
+    {
+      "name": "Chile Relleno Benedict",
+      "description": "Chille relleno, poached eggs, red salsa,topped with hollandaise, queso fresco, and chives",
+      "price": "$20.99",
+      "order": 2
+    },
+    {
+      "name": "Smoked Brisket Benedict",
+      "description": "Smoked brisket, poached eggs, hollandaise, chimichurri, country potatoes",
+      "price": "$20.99",
+      "order": 3
+    },
+    {
+      "name": "Breakfast Burrito Mojado",
+      "description": "Flour Tortilla, Oaxaca and Monterey cheese, scrambled eggs,crack sauce, avocado, country potatoes, choice of bacon or sausage, topped with choice of red and green salsa, sour cream, red onions, micro cilantro,  sunny side up egg",
+      "price": "$17.99",
+      "order": 4
+    },
+    {
+      "name": "Pork Belly Fried Rice",
+      "description": "Pork belly, sunny side up egg, ponzu, green onion",
+      "price": "$19.99",
+      "order": 5
+    }
+  ],
+  "Classic American": [
+    {
+      "name": "Steak & Eggs",
+      "description": "7oz flat iron steak, 2 eggs your way, chimichurri, country potatoes",
+      "price": "$25.99",
+      "order": 1
+    },
+    {
+      "name": "Boring Breakfast",
+      "description": "2 eggs your way, choice of bacon or sausage, choice of toast, country potatoes",
+      "price": "$16.99",
+      "order": 2
+    },
+    {
+      "name": "Breakfast Sandwich",
+      "description": "Brioche bun, scrambled eggs, melted blend of Oaxaca and Monterey cheese, avocado, crack sauce , bacon",
+      "price": "$16.99",
+      "order": 3
+    },
+    {
+      "name": "Avocado Toast",
+      "description": "Freshly baked telera bread, smashed avocado, pico de gallo, queso fresco, micro cilantro, add egg",
+      "price": "$15.99",
+      "order": 4
+    },
+    {
+      "name": "Açaí Bowl",
+      "description": "Granola, fresh berries, banana, honey",
+      "price": "$13.99",
+      "order": 5
+    }
+  ],
+  "OMELETTE": [
+    {
+      "name": "Western Omelette",
+      "description": "Melted Oaxaca and Monterrey cheese, bell peppers, onions, bacon, country potatoes",
+      "price": "$16.99",
+      "order": 1
+    },
+    {
+      "name": "Applewood smoked brisket omellete",
+      "description": "",
+      "price": "$25.99",
+      "order": 2
+    },
+    {
+      "name": "Birria braised beef omelette",
+      "description": "",
+      "price": "$24.99",
+      "order": 3
+    },
+    {
+      "name": "Flat iron steak steak omelette",
+      "description": "",
+      "price": "$27.99",
+      "order": 4
+    }
+  ],
+  "SKILLETS": [
+    {
+      "name": "Breakfast Skillet",
+      "description": "Country potatoes, topped with melted Oaxaca and Monterey cheese, choice of bacon or sausage, 2 eggs your way, micro cilantro",
+      "price": "$17.99",
+      "order": 1
+    },
+    {
+      "name": "Flat Iron Skillet",
+      "description": "",
+      "price": "$27.99",
+      "order": 2
+    },
+    {
+      "name": "Carnivore Skillet",
+      "description": "Flat iron steak, brisket, chicken",
+      "price": "$38.99",
+      "order": 3
+    }
+  ],
+  "ESPECIALIDADES DE LA CASA": [
+    {
+      "name": "Lengua en su Jugo",
+      "description": "Tender beef tongue simmered in its own juices with bacon, served with de la olla beans and corn tortillas",
+      "price": "$19.99",
+      "order": 1
+    },
+    {
+      "name": "Enfrijoladas",
+      "description": "4 corn tortillas, dipped in beans, filled with queso fresco, topped with sour cream, pickled jalapeño, red onion, micro cilantro add protein",
+      "price": "$17.99",
+      "order": 2
+    },
+    {
+      "name": "Birria Plate with Consome",
+      "description": "Braised birria in consome, cilantro, red onion, and a side of corn tortillas",
+      "price": "$19.99",
+      "order": 3
+    },
+    {
+      "name": "Tabla Campestre",
+      "description": "8oz flat iron steak, longaniza, chile relleno, pico de gallo, guacamole, green onion, jalapeno pepper, frijoles charros, salsa milpera, corn tortilla",
+      "price": "$38.99",
+      "order": 4
+    }
+  ],
+  "SALADS": [
+    {
+      "name": "Grilled Chicken Mexican Salad",
+      "description": "Mixed greens, grilled corn, pico de gallo, queso fresco, avocado, micro cilantro, champagne vinaigrette",
+      "price": "$18.99",
+      "order": 1
+    },
+    {
+      "name": "Flat Iron Steak Salad",
+      "description": "Mixed greens, grilled corn, pico de gallo, queso fresco, avocado, micro cilantro, champagne vinaigrette",
+      "price": "$21.99",
+      "order": 2
+    }
+  ],
+  "KIDS": [
+    {
+      "name": "Kids Huevos con Weenies",
+      "description": "Scrambled eggs with smoked sausage, queso fresco, and a side of corn tortilla",
+      "price": "$11.99",
+      "order": 1
+    },
+    {
+      "name": "KID Chicken Tenders",
+      "description": "3 pieces of chicken tenders with fries",
+      "price": "$15.99",
+      "order": 2
+    },
+    {
+      "name": "Kids Wagyu Cheese Burger",
+      "description": "Wagyu beef patties, melted Oaxaca and Monterrey cheese, crack sauce, fries",
+      "price": "$14.99",
+      "order": 3
+    }
+  ],
+  "TACOS": [
+    {
+      "name": "Mahi Mahi Tacos",
+      "description": "2 corn tortilla, blackened & grilled Mahi Mahi, shredded cabbage, red onion, chipotle cream, pico de gallo, lime",
+      "price": "$14.99",
+      "order": 1
+    },
+    {
+      "name": "Carne Asada Tacos",
+      "description": "2 corn tortillas with flat iron steak, red onion, micro cilantro , freshly smashed avocado",
+      "price": "$17.99",
+      "order": 2
+    },
+    {
+      "name": "Pork Belly Adobado Tacos",
+      "description": "2 corn tortillas, melted blend of Oaxaca and Monterrey cheese, Pork Belly marinated in adobada, micro cilantro, red onion, salsa milpera",
+      "price": "$17.99",
+      "order": 3
+    }
+  ],
+  "BURGER +": [
+    {
+      "name": "Smoked Brisket Wagyu Burger",
+      "description": "Brioche bun,Wagyu beef patty, smoked brisket, melted Oaxaca and Monterrey cheesse, crispy onion, BBQ sauce, french fries",
+      "price": "$20.99",
+      "order": 1
+    },
+    {
+      "name": "Chile Relleno Wagyu Burger",
+      "description": "Brioche bun, Wagyu beef patty, melted Oaxaca and Monterrey cheese, chile relleno, salsa roja, queso fresco, french fries",
+      "price": "$20.99",
+      "order": 2
+    },
+    {
+      "name": "Double Cheese Wagyu Burger",
+      "description": "Brioche bun, 2 Wagyu patties, Oaxaca and Monterrey cheese, lettuce, tomato, pickles, onion, crack sauce, side of french fries",
+      "price": "$18.99",
+      "order": 3
+    },
+    {
+      "name": "Cilantro Pesto Chicken Sandwich",
+      "description": "Chicken breast, queso fresco, roasted cherry tomatoes, grilled onions, mixed greens, cilantro pesto, baguette",
+      "price": "$20.99",
+      "order": 4
+    },
+    {
+      "name": "Cilantro Pesto Steak Sandwich",
+      "description": "Flat iron steak, queso fresco, roasted cherry tomatoes, grilled onions, mixed greens, cilantro pesto, baguette",
+      "price": "$24.99",
+      "order": 5
+    },
+    {
+      "name": "Birria Melt",
+      "description": "Braised beef birria, Oaxaca cheese, red onion, micro cilantro, birria consommé, baguette, french fries",
+      "price": "$19.99",
+      "order": 6
+    },
+    {
+      "name": "Pork Belly Sandwich",
+      "description": "Pickled carrots, cucumber, micro cilantro, sriracha aioli, baguette, French fries",
+      "price": "$20.99",
+      "order": 7
+    }
+  ],
+  "WAFLE/FRENCH/PANCAKES": [
+    {
+      "name": "3 Leches French Toast",
+      "description": "Fresh berries, coconut sweet cream, powder sugar",
+      "price": "$17.99",
+      "order": 1
+    },
+    {
+      "name": "3 Leches Pancakes/Waffles",
+      "description": "Fresh berries, coconut sweet cream, powder sugar",
+      "price": "$13.99",
+      "order": 2
+    },
+    {
+      "name": "Apple Pie French Toast",
+      "description": "Caramelized apples, streusel, ice cream",
+      "price": "$17.99",
+      "order": 3
+    },
+    {
+      "name": "Apple pie pancake/waffle",
+      "description": "Caramelized apples, streusel, ice cream",
+      "price": "$13.99",
+      "order": 4
+    },
+    {
+      "name": "Banana Foster French Toast",
+      "description": "Topped with flambé banana, walnuts and horchata ice cream",
+      "price": "$17.99",
+      "order": 5
+    },
+    {
+      "name": "Banana Foster Pancake/Waffle",
+      "description": "Topped with flambé banana, walnuts and horchata ice cream",
+      "price": "$13.99",
+      "order": 6
+    },
+    {
+      "name": "Bionico French Toast",
+      "description": "Fresh berries, granola, sweet cream",
+      "price": "$17.99",
+      "order": 7
+    },
+    {
+      "name": "Bionico Pancake or Waffle",
+      "description": "Fresh berries, granola, sweet cream",
+      "price": "$13.99",
+      "order": 8
+    },
+    {
+      "name": "Fresas con Crema French Toast",
+      "description": "Fresh strawberries,  strawberry sweet cream, strawberry syrup, marscapone cream",
+      "price": "$17.99",
+      "order": 9
+    },
+    {
+      "name": "Fresas con Crema Pancake/Waffles",
+      "description": "Fresh strawberries, strawberry sweet cream, strawberry syrup, marscapone cream",
+      "price": "$13.99",
+      "order": 10
+    },
+    {
+      "name": "Mazapan French Toast",
+      "description": "Mazapan, sweet cream, strawberry",
+      "price": "$17.99",
+      "order": 11
+    },
+    {
+      "name": "Mazapan Pancakes/Waffles",
+      "description": "Mazapan, sweet cream, strawberry",
+      "price": "$13.99",
+      "order": 12
+    },
+    {
+      "name": "Tiramisu French Toast",
+      "description": "Fresh berries, mascarpone cream, cocoa powder, espresso syrup",
+      "price": "$18.99",
+      "order": 13
+    },
+    {
+      "name": "Tiramisu Pancakes/Waffles",
+      "description": "Fresh berries, mascarpone cream, cocoa powder, espresso syrup",
+      "price": "$14.99",
+      "order": 14
+    }
+  ]
 }
