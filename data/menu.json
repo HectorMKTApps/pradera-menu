@@ -17,8 +17,7 @@
       "name": "Chicharron y Guacamole",
       "description": "Pork rinds, guacamole, pico de gallo, chared jalapenos, micro cilantro",
       "price": "$15.99",
-      "order": 3,
-      "image": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785901544/bvvqxgpdqdb5ukblglds.jpg"
+      "order": 3
     },
     {
       "name": "Birria Taquitos",
@@ -45,8 +44,7 @@
       "description": "Tortilla chips, choice of red or green sauce, bed of beans, 2 eggs your way, topped with queso fresco, sour cream, red onions, micro cilantro, add protein",
       "price": "$18.99",
       "order": 1,
-      "featured": true,
-      "image": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785901545/j3wnetenznhfrdgyp8hv.jpg"
+      "featured": true
     },
     {
       "name": "Huevos Rancheros",
@@ -64,8 +62,7 @@
       "name": "Huevos con Weenies",
       "description": "Scrambled eggs with smoked sausage, topped with pico de gallo, queso fresco and corn tortilla",
       "price": "$11.99",
-      "order": 4,
-      "image": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785901546/n7rsbckh24tpcbecdjbm.jpg"
+      "order": 4
     },
     {
       "name": "Machaca a la Mexicana",
