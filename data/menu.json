@@ -38,7 +38,63 @@
       "order": 6
     }
   ],
-  "CASA DE LA ABUELITA": [],
+  "CASA DE LA ABUELITA": [
+    {
+      "name": "Chilaquiles",
+      "description": "Tortilla chips, choice of red or green sauce, bed of beans, 2 eggs your way, topped with queso fresco, sour cream, red onions, micro cilantro, add protein",
+      "price": "$18.99",
+      "order": 1,
+      "featured": true
+    },
+    {
+      "name": "Huevos Rancheros",
+      "description": "2 crispy fried tortillas, bed of beans, eggs your way, topped with Salsa ranchera, queso fresco, red onions , micro cilantro, country potatoes",
+      "price": "$17.99",
+      "order": 2
+    },
+    {
+      "name": "Molletes",
+      "description": "Freshly baked telera, topped with beans, melted blend of Oaxaca and Monterrey cheese , eggs your way, pico de gallo, queso fresco, micro cilantro.",
+      "price": "$14.99",
+      "order": 3
+    },
+    {
+      "name": "Huevos con Weenies",
+      "description": "Scrambled eggs with smoked sausage, topped with pico de gallo, queso fresco and corn tortilla",
+      "price": "$11.99",
+      "order": 4
+    },
+    {
+      "name": "Machaca a la Mexicana",
+      "description": "Beef machaca, poblano pepper, tomato, onion, beans, country potatoes, corn or flour tortillas",
+      "price": "$18.99",
+      "order": 5
+    },
+    {
+      "name": "Chilorio con Papas",
+      "description": "Shredded pork en adobo de chiles, 2 eggs your way, beans, country potatoes, corn or flour tortillas",
+      "price": "$18.99",
+      "order": 6
+    },
+    {
+      "name": "Enchiladas Suizas",
+      "description": "Braised chicken breast, creamy tomatillo salsa, Oaxaca cheese blend, red onion, queso fresco, sour cream, avocado, micro cilantro",
+      "price": "$19.99",
+      "order": 7
+    },
+    {
+      "name": "Costilla de Puerco en Salsa Verde Tatemada",
+      "description": "Guisado pork ribs, green salsa, beans, white rice, corn tortillas",
+      "price": "$19.99",
+      "order": 8
+    },
+    {
+      "name": "Chicharron de Pork Belly en Salsa Roja",
+      "description": "Chicharron de pork belly en salsa roja tatemada, white rice, beans con queso fresco, blue corn tortillas",
+      "price": "$19.99",
+      "order": 9
+    }
+  ],
   "PANADERIA - baked daily": [],
   "Elevated": [],
   "Classic American": [],
