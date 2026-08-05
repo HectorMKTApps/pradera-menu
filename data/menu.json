@@ -1,0 +1,59 @@
+{
+  "Drinks": [
+    {
+      "name": "Sparkling Elderflower Spritz",
+      "description": "House-made elderflower cordial, soda water, fresh mint, and a twist of lime.",
+      "price": "$7",
+      "featured": true,
+      "order": 1
+    },
+    {
+      "name": "Barrel-Aged Old Fashioned",
+      "description": "Bourbon, demerara syrup, and orange bitters, rested in oak.",
+      "price": "$14",
+      "order": 2
+    },
+    {
+      "name": "Cold Brew Tonic",
+      "description": "Slow-steeped cold brew coffee topped with tonic water and orange peel.",
+      "price": "$6",
+      "order": 3
+    }
+  ],
+  "Starters": [
+    {
+      "name": "Charred Octopus",
+      "description": "Smoked paprika, fingerling potatoes, and a lemon-caper vinaigrette.",
+      "price": "$16",
+      "featured": true,
+      "order": 1
+    },
+    {
+      "name": "Burrata & Heirloom Tomato",
+      "description": "Creamy burrata, basil oil, aged balsamic, and toasted sourdough.",
+      "price": "$13",
+      "order": 2
+    },
+    {
+      "name": "Crispy Artichoke Hearts",
+      "description": "Flash-fried artichokes with a roasted garlic aioli.",
+      "price": "$11",
+      "order": 3
+    }
+  ],
+  "Desserts": [
+    {
+      "name": "Dark Chocolate Fondant",
+      "description": "Molten center, vanilla bean ice cream, and a raspberry coulis.",
+      "price": "$10",
+      "featured": true,
+      "order": 1
+    },
+    {
+      "name": "Basque Cheesecake",
+      "description": "Caramelized top, creamy center, served with berry compote.",
+      "price": "$9",
+      "order": 2
+    }
+  ]
+}
