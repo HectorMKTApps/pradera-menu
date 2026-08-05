@@ -1,3 +1,11 @@
 {
-  "Sheet1": []
+  "Sheet1": [
+    {
+      "name": "pasta",
+      "description": "super",
+      "price": "$25",
+      "order": 1,
+      "featured": true
+    }
+  ]
 }
