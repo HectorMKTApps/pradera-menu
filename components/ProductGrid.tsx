@@ -8,8 +8,8 @@ interface ProductGridProps {
 export default function ProductGrid({ products }: ProductGridProps) {
   if (products.length === 0) {
     return (
-      <div className="flex flex-col items-center justify-center rounded-xl border border-dashed border-[var(--color-bronze)]/30 py-16 text-center">
-        <p className="text-[var(--color-beige)]/70">
+      <div className="flex flex-col items-center justify-center rounded-xl border border-dashed border-black/15 py-16 text-center">
+        <p className="text-[var(--color-beige)]/90">
           No items match your search.
         </p>
       </div>

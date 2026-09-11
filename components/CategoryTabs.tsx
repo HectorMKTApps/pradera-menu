@@ -23,7 +23,7 @@ export default function CategoryTabs({
             className={`shrink-0 rounded-full border px-4 py-2 text-sm font-medium tracking-wide whitespace-nowrap transition-colors ${
               isActive
                 ? "border-[var(--color-gold)] bg-[var(--color-gold)] text-[var(--color-ink)]"
-                : "border-[var(--color-bronze)]/40 bg-transparent text-[var(--color-beige)] hover:border-[var(--color-gold)] hover:text-[var(--color-gold)]"
+                : "border-black/10 bg-transparent text-[var(--color-beige)] hover:border-[var(--color-gold)] hover:text-[var(--color-gold-text)]"
             }`}
           >
             {category}

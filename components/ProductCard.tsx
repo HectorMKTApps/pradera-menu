@@ -9,7 +9,7 @@ export default function ProductCard({ product }: ProductCardProps) {
   const { name, description, price, image, featured } = product;
 
   return (
-    <div className="group flex flex-col overflow-hidden rounded-xl border border-[var(--color-bronze)]/30 bg-[var(--color-charcoal)]/40 transition-colors hover:border-[var(--color-gold)]/60">
+    <div className="group flex flex-col overflow-hidden rounded-xl border border-black/10 bg-[var(--color-charcoal)] transition-colors hover:border-[var(--color-gold)]/80">
       {image && (
         <div className="relative aspect-[4/3] w-full overflow-hidden bg-[var(--color-olive)]">
           <Image
@@ -38,11 +38,11 @@ export default function ProductCard({ product }: ProductCardProps) {
               </span>
             )}
           </div>
-          <span className="shrink-0 font-[family-name:var(--font-playfair)] text-lg text-[var(--color-gold)]">
+          <span className="shrink-0 font-[family-name:var(--font-playfair)] text-lg text-[var(--color-gold-text)]">
             {price}
           </span>
         </div>
-        <p className="text-sm leading-relaxed text-[var(--color-beige)]/80">
+        <p className="text-sm leading-relaxed text-[var(--color-beige)]/90">
           {description}
         </p>
       </div>

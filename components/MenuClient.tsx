@@ -28,8 +28,8 @@ export default function MenuClient({ menuData, categories }: MenuClientProps) {
 
   if (categories.length === 0) {
     return (
-      <div className="flex flex-col items-center justify-center rounded-xl border border-dashed border-[var(--color-bronze)]/30 py-20 text-center">
-        <p className="text-lg text-[var(--color-beige)]/70">
+      <div className="flex flex-col items-center justify-center rounded-xl border border-dashed border-black/15 py-20 text-center">
+        <p className="text-lg text-[var(--color-beige)]/90">
           Menu coming soon.
         </p>
       </div>
