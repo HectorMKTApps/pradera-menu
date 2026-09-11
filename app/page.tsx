@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { getMenuData, getCategories } from "@/lib/menu";
 import MenuClient from "@/components/MenuClient";
 
@@ -11,11 +12,16 @@ export default function Home() {
         <span className="text-xs font-semibold tracking-[0.3em] text-[var(--color-gold-text)] uppercase">
           Fine Dining
         </span>
-        <h1 className="font-[family-name:var(--font-playfair)] text-5xl text-[var(--color-ivory)] sm:text-6xl">
-          Pradera
-        </h1>
+        <Image
+          src="/praderalogo.svg"
+          alt="Pradera"
+          width={550}
+          height={120}
+          priority
+          className="h-14 w-auto sm:h-20"
+        />
         <p className="text-sm tracking-widest text-[var(--color-beige)]/90 uppercase">
-          Menu
+          Costa Mesa
         </p>
       </header>
       <MenuClient menuData={menuData} categories={categories} />
