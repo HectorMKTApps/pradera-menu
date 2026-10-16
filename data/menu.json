@@ -47,6 +47,13 @@
       "featured": true
     },
     {
+      "name": "Enchiladas Suizas",
+      "description": "Braised chicken breast, creamy tomatillo salsa, Oaxaca cheese blend, red onion, queso fresco, sour cream, avocado, micro cilantro",
+      "price": "$19.99",
+      "order": 1,
+      "image": "https://res.cloudinary.com/wmsyx9al/image/upload/v1792157918/rw7khfash7hmwhd1x6oi.jpg"
+    },
+    {
       "name": "Huevos Rancheros",
       "description": "2 crispy fried tortillas, bed of beans, eggs your way, topped with Salsa ranchera, queso fresco, red onions , micro cilantro, country potatoes",
       "price": "$17.99",
@@ -75,13 +82,6 @@
       "description": "Shredded pork en adobo de chiles, 2 eggs your way, beans, country potatoes, corn or flour tortillas",
       "price": "$18.99",
       "order": 6
-    },
-    {
-      "name": "Enchiladas Suizas",
-      "description": "Braised chicken breast, creamy tomatillo salsa, Oaxaca cheese blend, red onion, queso fresco, sour cream, avocado, micro cilantro",
-      "price": "$19.99",
-      "order": 7,
-      "image": "https://res.cloudinary.com/wmsyx9al/image/upload/v1792157918/rw7khfash7hmwhd1x6oi.jpg"
     },
     {
       "name": "Costilla de Puerco en Salsa Verde Tatemada",
